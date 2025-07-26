@@ -1,6 +1,6 @@
 # clima
 
-A new Flutter project.
+Weather App Based on OpenWeather API.
 
 ## Getting Started
 
